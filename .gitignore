@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+# drafts of the LinkedIn post text stay local
+linkedin_post.md
